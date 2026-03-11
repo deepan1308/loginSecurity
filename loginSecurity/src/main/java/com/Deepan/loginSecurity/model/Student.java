@@ -1,4 +1,4 @@
-package com.Deepan.loginSecurity;
+package com.Deepan.loginSecurity.model;
 
 public class Student {
     private int id;
